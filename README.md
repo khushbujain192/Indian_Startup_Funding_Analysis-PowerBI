@@ -14,7 +14,7 @@ This project analyzes startup funding data across industries, cities, investors,
 ## 📊 Dataset
 
 **Source:** Kaggle — Indian Startup Funding Dataset
-Key fields include Startup Name, Industry, City, Investors, Investment Type, Funding Amount, and Funding Date.
+* Key fields include - Startup Name, Industry, City, Investors, Investment Type, Funding Amount, and Funding Date.
 
 ## 🛠️ Tools Used
 * Microsoft Power BI
@@ -38,5 +38,4 @@ Key fields include Startup Name, Industry, City, Investors, Investment Type, Fun
 * Funding showed strong growth from 2016–2019
 
 ## 🚀 Project Impact
----
 *The dashboard provides a clear view of funding trends, leading sectors, startup hubs, and investor participation, supporting data-driven analysis of India's startup ecosystem.*
